@@ -49,7 +49,7 @@ For a visual representation of the project layout and design, refer to the image
 ![alt text](image-2.png)
 
 ### Prototype
-View the project prototype on Figma: [Figma Prototype](https://www.figma.com/proto/UdcyJEluxgdYuINHiFeTJ5/Simple-RSVP-COSP-1.0?page-id=0%3A1&node-id=5-77&viewport=437%2C-312%2C0.34&t=h9eU38ZZlIZVy2ud-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=5%3A351)
+View the project prototype on Figma: [Figma Prototype](https://www.figma.com/proto/UdcyJEluxgdYuINHiFeTJ5/Simple-RSVP-COSP-1.0?node-id=5-351&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=5%3A351)
 
 ## Technologies Used
 - **HTML**
