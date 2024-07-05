@@ -50,11 +50,11 @@ The project consists of two main pages:
 ## Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/COSP-1.0-RSVP.git
+   git clone https://github.com/C-cube-community/RSVP-website-Web.git
    ```
 2. Navigate to the project directory:
    ```
-   cd COSP-1.0-RSVP
+   cd RSVP-website-Web
    ```
 3. Open `index.html` in your preferred web browser to view the project.
 
