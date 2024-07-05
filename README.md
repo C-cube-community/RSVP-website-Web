@@ -1,7 +1,6 @@
-
 # Welcome to RSVP-website-Web
 
-This repository contains project code related to RSVP-website-Web.
+This repository contains the project code related to RSVP-website-Web.
 
 ## Getting Started
 
@@ -19,6 +18,10 @@ Welcome to the COSP 1.0 RSVP Website Project! This project involves creating a w
   - [Project Overview](#project-overview)
     - [Page 1: Enter Your Name](#page-1-enter-your-name)
     - [Page 2: Enter Your Email and Generate Ticket](#page-2-enter-your-email-and-generate-ticket)
+  - [Images and Prototype](#images-and-prototype)
+    - [Home Page](#home-page)
+    - [RSVP Form Page](#rsvp-form-page)
+    - [Prototype](#prototype)
   - [Technologies Used](#technologies-used)
   - [Project Structure](#project-structure)
   - [Installation](#installation)
@@ -35,6 +38,18 @@ On the first page, users can enter their name in the input box.
 
 ### Page 2: Enter Your Email and Generate Ticket
 On the second page, users will enter their email address. A ticket will be generated live, which the user can download. Additionally, an email with further details will be sent to the provided email address.
+
+## Images and Prototype
+For a visual representation of the project layout and design, refer to the images below and the prototype link:
+
+### Home Page
+![Home Page](images/home.png)
+
+### RSVP Form Page
+![RSVP Form Page](images/Ticket-page.png)
+
+### Prototype
+View the project prototype on Figma: [Figma Prototype](https://www.figma.com/proto/UdcyJEluxgdYuINHiFeTJ5/Simple-RSVP-COSP-1.0?page-id=0%3A1&node-id=5-77&viewport=437%2C-312%2C0.34&t=h9eU38ZZlIZVy2ud-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=5%3A351)
 
 ## Technologies Used
 - **HTML**
