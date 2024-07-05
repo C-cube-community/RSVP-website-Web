@@ -21,6 +21,7 @@ Welcome to the COSP 1.0 RSVP Website Project! This project involves creating a w
     - [Page 2: Enter Your Email and Generate Ticket](#page-2-enter-your-email-and-generate-ticket)
   - [Technologies Used](#technologies-used)
   - [Project Structure](#project-structure)
+  - [Installation](#installation)
   - [Usage](#usage)
   - [Contributing](#contributing)
   - [License](#license)
@@ -45,7 +46,6 @@ On the second page, users will enter their email address. A ticket will be gener
 The project consists of two main pages:
 1. **Home Page**: This page provides an overview of the event and allows users to enter their name.
 2. **RSVP Form Page**: This page contains the form where users enter their email address and download their ticket.
-```
 
 ## Installation
 1. Clone the repository:
