@@ -62,6 +62,10 @@ The project consists of two main pages:
 1. **Home Page**: This page provides an overview of the event and allows users to enter their name.
 2. **RSVP Form Page**: This page contains the form where users enter their email address and download their ticket.
 
+The base template is made in `index.html` and related styles are added in `styles/style1.css`. Reuse these styles for `Ticket-Page.html` too in `styles/style2.css`. If contributors want to utilize TailwindCSS, it is allowed.
+
+The `asset` folder contains background images and media, while the `styles` folder contains both CSS files.
+
 ## Installation
 1. Clone the repository:
    ```
